@@ -176,7 +176,7 @@ else:
 ### Confusion Matrix
 ![img](DL5.png)
 ### New Sample Data Prediction
-![img](DL.png)
+![img](DL6.png)
 
 ## RESULT
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
